@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/quickstart/posts/</loc>
+    <loc>https://techwriterp.github.io/quickstart/posts/</loc>
     <lastmod>2024-09-04T12:06:12+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/quickstart/</loc>
+    <loc>https://techwriterp.github.io/quickstart/</loc>
     <lastmod>2024-09-04T12:06:12+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/quickstart/posts/role-of-techwriter/</loc>
+    <loc>https://techwriterp.github.io/quickstart/posts/role-of-techwriter/</loc>
     <lastmod>2024-09-04T12:06:12+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/quickstart/posts/my-first-post/</loc>
+    <loc>https://techwriterp.github.io/quickstart/posts/my-first-post/</loc>
     <lastmod>2024-09-04T09:26:58+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/quickstart/categories/</loc>
+    <loc>https://techwriterp.github.io/quickstart/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/quickstart/tags/</loc>
+    <loc>https://techwriterp.github.io/quickstart/tags/</loc>
   </url>
 </urlset>

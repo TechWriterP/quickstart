@@ -1,7 +1,6 @@
 +++
 title = 'The Role of a Technical Writer in Software Development'
 date = 2024-09-04T11:35:52+05:30
-draft = false
 +++
 ## The Role of a Technical Writer in Software Development
 

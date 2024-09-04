@@ -1,7 +1,7 @@
 +++
 title = 'The Role of a Technical Writer in Software Development'
 date = 2024-09-04T12:06:12+05:30
-draft = true
+draft = false
 +++
 
 In the fast-paced and ever-evolving world of software development, communication is key. From developers and testers to stakeholders and end-users, everyone involved in the software lifecycle needs clear, concise, and accurate information to perform their roles effectively. This is where the role of a **technical writer** becomes crucial. 

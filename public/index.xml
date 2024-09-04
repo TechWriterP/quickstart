@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tech Writer&#39;s Blogs</title>
-    <link>https://techwriterp.github.io/quickstart/</link>
+    <link>http://localhost:1313/quickstart/</link>
     <description>Recent content on Tech Writer&#39;s Blogs</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 04 Sep 2024 11:35:52 +0530</lastBuildDate>
-    <atom:link href="https://techwriterp.github.io/quickstart/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/quickstart/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Role of a Technical Writer in Software Development</title>
-      <link>https://techwriterp.github.io/quickstart/posts/role-of-techwriter/</link>
+      <link>http://localhost:1313/quickstart/posts/role-of-techwriter/</link>
       <pubDate>Wed, 04 Sep 2024 11:35:52 +0530</pubDate>
-      <guid>https://techwriterp.github.io/quickstart/posts/role-of-techwriter/</guid>
+      <guid>http://localhost:1313/quickstart/posts/role-of-techwriter/</guid>
       <description>The Role of a Technical Writer in Software Development In the fast-paced and ever-evolving world of software development, communication is key. From developers and testers to stakeholders and end-users, everyone involved in the software lifecycle needs clear, concise, and accurate information to perform their roles effectively. This is where the role of a technical writer becomes crucial.&#xA;Technical writers bridge the gap between complex technical details and user-friendly information, ensuring that documentation, product guides, and system instructions are both understandable and accessible.</description>
     </item>
     <item>
       <title>What is Technical Writing?</title>
-      <link>https://techwriterp.github.io/quickstart/posts/my-first-post/</link>
+      <link>http://localhost:1313/quickstart/posts/my-first-post/</link>
       <pubDate>Wed, 04 Sep 2024 09:26:58 +0530</pubDate>
-      <guid>https://techwriterp.github.io/quickstart/posts/my-first-post/</guid>
+      <guid>http://localhost:1313/quickstart/posts/my-first-post/</guid>
       <description>What is Technical Writing? Technical writing is a specialized form of communication that transforms complex, technical information into clear, concise, and easily understandable content. Whether it&amp;rsquo;s a user manual for a new software application, an installation guide for a piece of hardware, or detailed API documentation for developers, technical writing plays a crucial role in ensuring that the end-users can understand and effectively use the product or service.&#xA;The Importance of Technical Writing In today’s fast-paced, technology-driven world, technical writing is more important than ever.</description>
     </item>
   </channel>
